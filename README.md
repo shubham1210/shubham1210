@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubham1210
-- 👀 I’m interested in datastructures and new Tech stack
-- 🌱 I’m currently learning Scala and Angular
-- 💞️ I’m looking to collaborate on DS/Algo
+- 👀 I’m interested ...
+- 🌱 I’m currently ...
+- 💞️ I’m looking to collaborate..
 - 📫 How to reach me ...
 
 <!---
